@@ -6,20 +6,19 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hello, Im Ron Burgundy?</h1>
+            <h1 className='title'>Joanne Li</h1>
           </div>
           <img
             className='pic'
-            src='https://pbs.twimg.com/profile_images/415961110635110400/xPO9YqTC.jpeg'
-            alt='ron burgundy'
+            src='https://media-exp1.licdn.com/dms/image/C5603AQGoGK4NUOwdDg/profile-displayphoto-shrink_800_800/0/1660327256608?e=1673481600&v=beta&t=rMPufBAHTY8p3JET_T2_L1n-UvXPIlmT9ZffCyJ1sV4'
+            alt='joanne li'
           />
 
           <p className='description'>
-            I dont know if you know this, but... I am kind of a big deal. I have
-            many leather bound books and my apartment smells of rich mahogany. I
-            am also a five-time local Emmy award-winning anchor for the KVWN Channel
-            4 News in San Diego. When im not reading the news, you will find me
-            playing the jazz flute around the city at different establishments.
+            Hello! I'm a freshmen at CU Boulder studying computer science, I don't have
+            a lot of CS background, but I'm excited to learn a lot. In the future, I 
+            hope to go into software engineering or cybersecurity. I also love to read
+            in my free time, and sometimes cook.
           </p>
 
           <a className='button' href='/'>
