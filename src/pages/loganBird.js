@@ -11,7 +11,7 @@ export default function examplePage() {
           <img
             className='pic'
             src='https://i.imgur.com/zNXLCG4.jpg'
-            alt='ron burgundy'
+            alt='logan bird'
           />
 
           <p className='description'>
